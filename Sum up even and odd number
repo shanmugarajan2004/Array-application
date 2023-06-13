@@ -1,4 +1,4 @@
-nt main()
+int main()
 {
  int Size, i, a[10];
  int Even_Sum = 0, Odd_Sum = 0;
